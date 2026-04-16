@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Demian 👋</h1>
+<h1 align="center">Hi there, I'm Demian 👋</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -12,42 +12,48 @@
 
 ---
 
-## 👨‍💻 Обо мне
+## 👨‍💻 About Me
 
-iOS-разработчик, специализируюсь на Swift, UIKit и SwiftUI. Собираю **production-grade приложения** с чистой архитектурой и вниманием к деталям.
+iOS Developer specializing in Swift, UIKit, and SwiftUI. I build **production-grade apps** with clean architecture and attention to detail.
 
-- 🔭 Углубляюсь в архитектуру iOS (VIPER, MVVM, модульность через SPM)
+- 🔭 Exploring advanced iOS architecture (VIPER, MVVM, modular SPM)
 - 📱 SwiftUI, Combine, async/await, CoreData
-- 🧱 UIKit + VIPER + Firebase для крупных проектов
-- 🧠 Интересуюсь system design и многопоточностью
-- 🏐 КМС по волейболу — дисциплина и командная работа в коде тоже
-- 💡 Строю реальные портфельные продукты, а не демо "на выброс"
+- 🧱 UIKit + VIPER + Firebase for large-scale projects
+- 🧠 Interested in system design and multithreading
+- 💡 Building real portfolio-grade products, not throwaway demos
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner of the Samara Region Championship in Sport Programming 2026** — Algorithmic Programming track
+- 🏐 **Candidate Master of Sport** in Volleyball
 
 ---
 
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" title="Swift" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" title="Xcode" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" height="40" title="SwiftUI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma" />
 </div>
 
 ---
 
-## 📱 Проекты
+## 📱 Projects
 
-- **JapanGo** — SwiftUI, MVVM, `@Observable`, Combine, CoreData, MapKit, Firebase, Kingfisher
+- **JapanGo** — SwiftUI, MVVM, Combine, CoreData, MapKit, Firebase, Kingfisher
 - **Messenger** — VIPER + UIKit + Firebase (Firestore, Auth, FCM, Storage)
 - **VolleyBolley** — Yandex Workshop, UIKit/VIPER, Moya, Swinject
 - **TravelSchedule** — SwiftUI/MVVM, Combine, OpenAPI, Yandex Schedules API
@@ -72,7 +78,7 @@ iOS-разработчик, специализируюсь на Swift, UIKit и 
 
 ```swift
 struct Skills {
-    let language     = ["Swift", "Objective-C (basics)", "C++"]
+    let language     = ["Swift", "Objective-C (basics)"]
     let ui           = ["SwiftUI", "UIKit", "Combine", "MapKit"]
     let architecture = ["MVVM", "VIPER", "MVP", "Clean Architecture", "SPM Modules"]
     let persistence  = ["CoreData", "SwiftData", "UserDefaults"]
@@ -84,7 +90,7 @@ struct Skills {
 
 ---
 
-## 📫 Контакты
+## 📫 Contact
 
 <div align="center">
   <a href="https://github.com/DemiDevv">
