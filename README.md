@@ -6,10 +6,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DemiDevv&color=blue&style=flat-square&label=Profile+Views" />
-</div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -53,7 +49,7 @@ iOS Developer specializing in Swift, UIKit, and SwiftUI. I build **production-gr
 
 ## 📱 Projects
 
-- **JapanGo** — SwiftUI, MVVM, Combine, CoreData, MapKit, Firebase, Kingfisher
+- **JapanGo** — SwiftUI, MVVM, `@Observable`, Combine, CoreData, MapKit, Firebase, Kingfisher
 - **Messenger** — VIPER + UIKit + Firebase (Firestore, Auth, FCM, Storage)
 - **VolleyBolley** — Yandex Workshop, UIKit/VIPER, Moya, Swinject
 - **TravelSchedule** — SwiftUI/MVVM, Combine, OpenAPI, Yandex Schedules API
@@ -93,6 +89,12 @@ struct Skills {
 ## 📫 Contact
 
 <div align="center">
+  <a href="mailto:demyanpain@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/dpdeceased">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
   <a href="https://github.com/DemiDevv">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
